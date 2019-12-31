@@ -1,0 +1,1 @@
+reference:https://github.com/ZengqiangYan/Joint-Segment-level-and-Pixel-wise-Losses-for-Deep-Learning-based-Retinal-Vessel-Segmentation
