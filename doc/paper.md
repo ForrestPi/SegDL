@@ -8,3 +8,6 @@ https://blog.csdn.net/CaiDaoqing/article/details/90457197 语义分割常用loss
 https://arxiv.org/abs/1708.02551 Semantic Instance Segmentation with a Discriminative Loss Function
 
 https://github.com/ShawnBIT/UNet-family
+
+
+https://github.com/wasidennis/AdaptSegNet  Learning to Adapt Structured Output Space for Semantic Segmentation, CVPR 2018 (spotlight)
