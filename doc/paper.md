@@ -6,3 +6,5 @@ https://arxiv.org/pdf/1707.03237.pdf  Generalised dice overlap as a deep learnin
 https://blog.csdn.net/CaiDaoqing/article/details/90457197 语义分割常用loss介绍及pytorch实现
 
 https://arxiv.org/abs/1708.02551 Semantic Instance Segmentation with a Discriminative Loss Function
+
+https://github.com/ShawnBIT/UNet-family
