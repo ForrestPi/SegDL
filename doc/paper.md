@@ -38,3 +38,9 @@ https://github.com/lxtGH/GALD-Net
 https://github.com/lxtGH/Fast_Seg
 
 https://github.com/speedinghzl/CCNet
+
+https://blog.csdn.net/Yangxing_ch/article/details/98033105
+
+https://blog.csdn.net/qq_34914551/article/details/103465299  PortraitNet: Real-time portrait segmentation network for mobile device论文解读和代码实践
+portraitNet其实已经被extremeC3Net（2019年七月）和SINet（2019年11月）超越了。以后也会带来这两篇论文的解读，两篇论文是同一作者，一个韩国人。
+https://github.com/dong-x16/PortraitNet
