@@ -44,3 +44,18 @@ https://blog.csdn.net/Yangxing_ch/article/details/98033105
 https://blog.csdn.net/qq_34914551/article/details/103465299  PortraitNet: Real-time portrait segmentation network for mobile device论文解读和代码实践
 portraitNet其实已经被extremeC3Net（2019年七月）和SINet（2019年11月）超越了。以后也会带来这两篇论文的解读，两篇论文是同一作者，一个韩国人。
 https://github.com/dong-x16/PortraitNet
+
+
+https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks
+
+https://github.com/xiaoyufenfei/LEDNet
+
+https://github.com/xiaoyufenfei/ESNet
+
+
+https://github.com/xiaoyufenfei/Real-Time-Semantic-Segmentation
+
+
+
+https://arxiv.org/pdf/1803.08904.pdf  Context Encoding for Semantic Segmentation
+Semantic Encoding Loss
