@@ -1,5 +1,7 @@
 #可视化语义分割结果
 #https://blog.csdn.net/fanzonghao/article/details/85160499
+import os
+import cv2
 def test_visul_label():
     path='./train_annot'
     output='./train_annot_out'
